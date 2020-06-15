@@ -1,2 +1,2 @@
-## Custom .NET Core Garbage Collector ##
+## Minimalist Custom .NET Core Garbage Collector ##
 
